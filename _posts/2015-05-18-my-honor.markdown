@@ -1,0 +1,24 @@
+---
+
+layout: post
+title:  "My honor!"
+date:   2015-05-18 05:42:00
+categories: jekyll update
+---
+Here i am again. Um ano se passou, pelo menos pra mim :).
+Eu já havia me esquecido/<a href="https://www.google.com.br/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define%20procastinado">procrastinado</a> esse segundo capítulo mas coincidências acontecem uma delas eu logar no meu esquecido \*nix local e dar de cara com o mesma sessão do primeiro artigo escrito, logo hoje, bem no dia do meu aniversário e exatamente 5 meses (2015-01-18) do primeiro capitulo. Pensei no minimo isso vale uma história, confesso que já havia me esquecido como postar no jek mas não foi difícil voltar a tela em que me encontro...
+
+![print screen do terminal com history do momento em questão no post](https://github.com/kndrio/kndrio.github.io/raw/master/src/_images/my_honor_print_screen.png "Print Screen "tela em que me encontro...")
+
+Toda honra a Deus em primeiro lugar Ele é soberano em minha vida e me tem guardado por todo esse tempo com sua eterna graça e misericórdia, a minha família e todos aqueles que amo. E aqueles que estiverem em algum momento nesses 26 anos obrigado por qualquer que tenha sido pelo nome de Jesus vocês fizeram alguma diferença na minha vida.
+
+Assisti as mensagens de vcs hoje no facechannel só não deu pra responder pq eu tava sem teclado, sério estou tentando me manter afastado do fb durante a semana, nada exagerado até pq ainda dá pra me encontrar em tudo quanto é appisqna. O que não quero mais é ficar "logado" enquanto eu não estou, se é que me entende. Peço desculpas e agradeço cada uma (./like_em_todas_elas) não é só isso que eu curto e quando entro é um pentrilhão de acontecimentos na maioria aleatórios que pra mim 
+> "é muito trend e eu to numa fase menos mainstream." {Like | Share | Report}
+
+Somente Deus é unipresente, nós não temos como estar em todos os lugares em todo tempo. Algumas coisas não quero ficar testando agora que ainda tá em beta. Eu espero o Alfa e o Omega.
+
+Não existe tempo real, toda transmissão gera alguma latência... <a href="https://www.evernote.com/shard/s20/sh/fe414a4b-1101-4d80-a78a-8994d8400a12/08c81a5dba00b842953840b7ec1c5589">#Evernote | Aplicações web em tempo real - @gabrielfgularte #FrontendCarioca< /a>
+
+Eu realmente prefiro assim, 2015-05-19 07:25 tenho que estar em outro lugar agora.
+
+Abraços.
